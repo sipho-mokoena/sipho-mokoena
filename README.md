@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Mechatronics
 - PCB Design
 - Fullstack App Developemt
 - Data Analysis
 - Control Theory
-- Mechatronics Development
