@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Mechatronics
-- PCB Design
-- Fullstack App Developemt
-- Data Analysis
-- Control Theory
+- Quantitative Finance
+- Software Developemt
+- Data Science
+- Humanist
