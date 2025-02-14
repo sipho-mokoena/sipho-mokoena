@@ -20,5 +20,5 @@
 - IT automation
 - CAD and EDA
 - Data Analysis
+- MATLAB
 - Engineering Physics and Mathematics
-- Multiphysics Simulation.
