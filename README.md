@@ -1,21 +1,24 @@
 ## siphom0x0
 
-<!--
-**sipho-mokoena/sipho-mokoena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
 - Mechatronics
 - Quantitative Finance
-- Software Developemt
+- Software Development
 - Data Science
 - Humanist
+
+### Languages
+- C/C++
+- Python
+- Java
+- TypeScript
+- Kotlin
+
+### Skills
+- Linux
+- Powershell
+- IT automation
+- CAD and EDA
+- Data Analysis
+- Engineering Physics and Mathematics
+- Multiphysics Simulation.
