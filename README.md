@@ -5,7 +5,7 @@
 - Quantitative Finance
 - Software Development
 - Data Science
-- Humanism
+- Anthropology
 
 ### Languages
 - C/C++
