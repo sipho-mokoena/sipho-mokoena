@@ -5,7 +5,7 @@
 - Quantitative Finance
 - Software Development
 - Data Science
-- Humanist
+- Humanism
 
 ### Languages
 - C/C++
